@@ -2,6 +2,7 @@ Ecommerce ShopSmart 🛍️
 
 Ecommerce ShopSmart is a React-based eCommerce platform that allows users to browse products, add items to their cart, and interact with a chatbot for assistance. The website relies on Local Storage for cart persistence and does not include a backend for dynamic data processing.
 
+
 🚀 Features
 
 🛒 Shopping Cart – Add/remove items, view cart (stored in Local Storage)
@@ -11,6 +12,8 @@ Ecommerce ShopSmart is a React-based eCommerce platform that allows users to bro
 🤖 Chatbot Assistance – Interactive chatbot that provides answers to a set of predefined common questions, helping users with basic inquiries.
 
 💾 Local Storage – Persist cart items and chatbot history
+
+
 
 🛠️ Tech Stack
 
